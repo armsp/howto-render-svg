@@ -7,4 +7,7 @@ Checking how to render svg animations in github
 <p align="center">
     <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/animation.svg">
 </p>
+
+![Parrot](./docs/parrot.svg)
+
 <img alt="my image" src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true>
