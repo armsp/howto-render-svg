@@ -52,8 +52,8 @@
     <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
 </p>
 
-![parrot](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg)
+![parrot](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg?sanitize=true)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg?sanitize=true">
 </p>
