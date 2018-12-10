@@ -62,3 +62,15 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/term2svg.svg?sanitize=true">
 </p>
+
+![shark](http://heydonworks.com/SVG_animations/sharky.svg)
+
+![raw_shark]()
+
+<p align="center">
+    <img src="http://heydonworks.com/SVG_animations/sharky.svg">
+</p>
+
+<p align="center">
+    <img src="">
+</p>
