@@ -44,3 +44,10 @@
 
 # Image tag to mine raw animation link 
 <img alt="my image" src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
+
+# Attempts with RAW
+![raw](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg">
+</p>
