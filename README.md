@@ -69,7 +69,9 @@ they use raw git which will be taken down. so can't use it any more.
 
 ![shark](http://heydonworks.com/SVG_animations/sharky.svg)
 
-![raw_shark]()
+![raw_shark](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/sharky.svg)
+
+![shark](https://github.com/armsp/howto-render-svg/blob/master/docs/sharky.svg)
 
 <p align="center">
     <img src="http://heydonworks.com/SVG_animations/sharky.svg">
@@ -80,6 +82,10 @@ they use raw git which will be taken down. so can't use it any more.
 </p>
 
 <p align="center">
-    <img src="./docs/sharky.svg">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/sharky.svg">
+</p>
+
+<p align="center">
+    <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/sharky.svg">
 </p>
 
