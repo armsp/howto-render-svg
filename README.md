@@ -57,3 +57,8 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg?sanitize=true">
 </p>
+
+![t2s](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/term2svg.svg?sanitize=true)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/term2svg.svg?sanitize=true">
+</p>
