@@ -32,13 +32,54 @@
     <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/animation.svg">
 </p>
 
-# Image tag, link to term2svg animation file
+# Image tag, link to term2svg animation
 <p align="center">
-    <img src="https://nbedos.github.io/termtosvg/examples/awesome_window_frame.svg">
+    <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/term2svg.svg">
 </p>
 
 # Image tag, link to parrot js animation file
 they use raw git which will be taken down. so can't use it any more.
+# Image tag, link to parrot animation
+<p align="center">
+    <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/parrot.svg">
+</p>
 
 # Image tag to mine raw animation link 
 <img alt="my image" src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
+
+# Attempts with RAW
+![raw](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
+</p>
+
+![parrot](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg?sanitize=true)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/parrot.svg?sanitize=true">
+</p>
+
+![t2s](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/term2svg.svg?sanitize=true)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/term2svg.svg?sanitize=true">
+</p>
+
+![shark](./docs/sharky.svg)
+
+![shark](http://heydonworks.com/SVG_animations/sharky.svg)
+
+![raw_shark]()
+
+<p align="center">
+    <img src="http://heydonworks.com/SVG_animations/sharky.svg">
+</p>
+
+<p align="center">
+    <img src="./docs/sharky.svg">
+</p>
+
+<p align="center">
+    <img src="./docs/sharky.svg">
+</p>
+
