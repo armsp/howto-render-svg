@@ -10,4 +10,12 @@ Checking how to render svg animations in github
 
 ![Parrot](./docs/parrot.svg)
 
+<p align="center">
+    <img src="https://nbedos.github.io/termtosvg/examples/awesome_window_frame.svg">
+</p>
+
+<p align="center">
+    <img src="./docs/term2svg.svg">
+</p>
+
 <img alt="my image" src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true>
