@@ -32,14 +32,14 @@
     <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/animation.svg">
 </p>
 
-# Image tag, link to other's animation file
+# Image tag, link to term2svg animation
 <p align="center">
-    <img src="https://nbedos.github.io/termtosvg/examples/awesome_window_frame.svg">
+    <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/term2svg.svg">
 </p>
 
-# Image tag, relative path to other's animation svg
+# Image tag, link to parrot animation
 <p align="center">
-    <img src="./docs/term2svg.svg">
+    <img src="https://github.com/armsp/howto-render-svg/blob/master/docs/parrot.svg">
 </p>
 
 # Image tag to mine raw animation link 
