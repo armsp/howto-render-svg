@@ -46,8 +46,8 @@
 <img alt="my image" src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
 
 # Attempts with RAW
-![raw](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg)
+![raw](https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg">
+    <img src="https://raw.githubusercontent.com/armsp/howto-render-svg/master/docs/animation.svg?sanitize=true">
 </p>
