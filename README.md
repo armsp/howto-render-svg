@@ -3,6 +3,9 @@
 # Mine animation relative file path
 ![Animation](./docs/animation.svg)
 
+# Mine animation gdrive
+![Gd](https://drive.google.com/open?id=1EyDZiTQPz6yQHKdeBZgU-93jJkWEveUD)
+
 # term2svg animation relative file path
 ![Term2svg](./docs/term2svg.svg)
 
