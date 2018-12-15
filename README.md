@@ -1,10 +1,10 @@
 # Checking how to render svg animations in github
 
-# Mine still image relative file path
-![Still image](./docs/incognito.svg)
-
 # Mine animation relative file path
 ![Animation](./docs/animation.svg)
+
+# Mine animation gdrive
+![Gd](https://drive.google.com/file/d/1EyDZiTQPz6yQHKdeBZgU-93jJkWEveUD/view)
 
 # term2svg animation relative file path
 ![Term2svg](./docs/term2svg.svg)
